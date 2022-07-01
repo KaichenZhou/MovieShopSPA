@@ -10,6 +10,8 @@ import { SharedModule } from './Shared/shared.module';
   declarations: [
     AppComponent,
     
+
+    
   ],
   imports: [
     BrowserModule,
